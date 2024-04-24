@@ -275,6 +275,7 @@ button:not(:disabled),
   cursor: pointer;
 }
 
+
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
